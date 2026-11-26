@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+data.json
+data.lock
+data.json.tmp
+.checks/
+.git-history-backup/
